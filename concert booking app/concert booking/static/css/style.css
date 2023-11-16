@@ -1,0 +1,31 @@
+#regform{
+    position: absolute;
+    top: 10%;
+    left:30%;
+    padding: 5px;
+    width: 30%;
+    background-color: #7d8a84;
+}
+#tcktcount{
+    position: absolute;
+    top: 10%;
+    left:40%;
+    padding: 50px;
+    background-color: thistle;
+
+}
+#historyform{
+    position: absolute;
+    top:10%;
+    left:40%;
+    padding:50px;
+    background-color: thistle;
+}
+#loginformat{
+    position: absolute;
+    top: 10%;
+    left:30%;
+    padding: 5px;
+    width: 30%;
+    background-color: #7d8a84;
+}
